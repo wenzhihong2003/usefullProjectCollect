@@ -18,6 +18,28 @@ elasticsearch管理插件
 + [mapdb] (https://github.com/jankotek/MapDB)
 支持亿级别map, list, 支持事务. 可考虑做为缓存使用
 
++ [Chronicle-Queue] (https://github.com/OpenHFT/Chronicle-Queue)
+Micro second messaging that stores everything to disk http://openhft.net/products/chronicle-queue/
+
++ [Chronicle-Engine] (https://github.com/OpenHFT/Chronicle-Engine)
+A high performance, low latency, reactive processing framework
+
++ [Chronicle-Logger] (https://github.com/OpenHFT/Chronicle-Logger)
+A sub microsecond java logger, supporting standard logging APIs such as Slf & Log4J
+http://openhft.net/products/chronicle-logger/
+
+
+
++ [Chronicle-Map] (https://github.com/OpenHFT/Chronicle-Map)
+Replicate your Key Value Store across your network, with consistency, durability and performance.
+
++ [Koloboke] (https://github.com/OpenHFT/Koloboke)
+Java Collections till the last breadcrumb of memory and performance
+
++ [zero-allocation-hashing] (https://github.com/OpenHFT/zero-allocation-hashing)
+provides the API for hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more. The key design goal, distinguishing this project from, for example, Guava hashing: this API ease implementing hashing algorithms which **don't do a single allocation during hash computation for any input**, and without using ThreadLocal
+
+
 ## 前端js类
 
 
