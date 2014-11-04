@@ -3,6 +3,16 @@ usefullProjectCollect
 
 github上一些觉得对自己工作有用的项目收集
 
+## 电子书
++ [免费的计算机编程类中文书籍] (https://github.com/justjavac/free-programming-books-zh_CN)
++ [free-programming-books] (https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
++ [HTTP API 设计指南] (http://justjavac.com/web/2014/09/10/http-api-design.html)
++ [awesome-wpo web优化指南] (https://github.com/davidsonfellipe/awesome-wpo)
+A curated list of Web Performance Optimization.
+
+
+
+
 ## 技能类
 + [markdown语法中文说明] (http://wowubuntu.com/markdown/basic.html)
 
@@ -45,12 +55,81 @@ provides the API for hashing any sequences of bytes in Java, including all kinds
 + [Google Android官方培训课程中文版] (https://github.com/kesenhoo/android-training-course-in-chinese)
 Android Training板块 的中文翻译
 
++ [android-open-project] (https://github.com/Trinea/android-open-project)
+收集分类github上的android开源项目
+
++ [android-open-project-analysis] (https://github.com/android-cn/android-open-project-analysis)
+Android 优秀开源项目实现原理解析
+
++ [android-jobs] (https://github.com/android-cn/android-jobs)
+Android 全国职位列表 
+
++ [android-dev-cn] (https://github.com/android-cn/android-dev-cn)
+android开发者(国内)收集
+
++ [SmartAppUpdates] (https://github.com/cundong/SmartAppUpdates)
+Android应用增量更新
+
++ [Android-CleanArchitecture] (https://github.com/android10/Android-CleanArchitecture)
+This is a sample app that is part of a blog post I have written about how to architect android application using the Uncle Bob's clean architecture approach.
+
+
++ [android-best-practices] (https://github.com/futurice/android-best-practices)
+Do's and Don'ts for Android development, by Futurice developers
+Lessons learned from Android developers in Futurice. Avoid reinventing the wheel by following these guidelines
+
++ [EffectiveAndroidUI] (https://github.com/pedrovgs/EffectiveAndroidUI)
+Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works. This project is used during the talk "EffectiveAndroidUI".
+
+
+
+
+## ios
++ [ios-good-practices] (https://github.com/futurice/ios-good-practices)
+Good ideas for iOS development, by Futurice developers
+
++ [YTKNetwork] (https://github.com/yuantiku/YTKNetwork)
+YTKNetwork 是猿题库iOS研发团队基于 AFNetworking 封装的 iOS 网络库，其实现了一套 High Level 的 API，提供了更高层次的网络访问抽象。YTKNetwork 现在同时被使用在猿题库公司的所有产品的 iOS 端，包括：猿题库、小猿搜题 、粉笔直播课 
+
++ [YTKKeyValueStore] (https://github.com/yuantiku/YTKKeyValueStore)
+ios上的kv store
+
+
+
+
 
 
 ## 前端js类
++ [dashboards] (https://github.com/keen/dashboards)
+Responsive Dashboard Templates for Bootstrap http://keen.github.io/dashboards/
+
++ [awesome-react] (https://github.com/enaqx/awesome-react)
+A collection of awesome React libraries, resources and shiny things.
+
++ [lazysizes] (https://github.com/aFarkas/lazysizes)
+High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration
+
+
+
+
 
 
 ## nodejs类
++ [js-mobile-console] (https://github.com/B1naryStudio/js-mobile-console)
+Console for debugging web apps right on mobile device
+http://b1narystudio.github.io/js-mobile-console/
+
++ [nodePPT] (https://github.com/ksky521/nodePPT)
+这可能是迄今为止最好的网页版PPT http://qdemo.sinaapp.com/
+基于GFM的markdown语法编写
+
++ [meteor] (https://github.com/meteor/meteor)
+Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. http://www.meteor.com
+
+
+
+
+
 
 ## javaweb框架类
 + [play1] (https://github.com/playframework/play1/)
