@@ -6,6 +6,8 @@ github上一些觉得对自己工作有用的项目收集
 ## 技能类
 + [markdown语法中文说明] (http://wowubuntu.com/markdown/basic.html)
 
++ [java设计模式] (https://github.com/iluwatar/java-design-patterns)
+
 
 ## 全文检索
 + [elasticsearch] (https://github.com/elasticsearch/elasticsearch)
@@ -38,6 +40,11 @@ Java Collections till the last breadcrumb of memory and performance
 
 + [zero-allocation-hashing] (https://github.com/OpenHFT/zero-allocation-hashing)
 provides the API for hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more. The key design goal, distinguishing this project from, for example, Guava hashing: this API ease implementing hashing algorithms which **don't do a single allocation during hash computation for any input**, and without using ThreadLocal
+
+## android
++ [Google Android官方培训课程中文版] (https://github.com/kesenhoo/android-training-course-in-chinese)
+Android Training板块 的中文翻译
+
 
 
 ## 前端js类
