@@ -25,6 +25,13 @@ A curated list of Web Performance Optimization.
 + [bigdesk] (https://github.com/lukas-vlcek/bigdesk)
 elasticsearch管理插件
 
+## springframework相关
++ [spring-test-dbunit] (https://github.com/springtestdbunit/spring-test-dbunit)
+Integration between the Spring testing framework and DBUnit http://springtestdbunit.github.com/spring-test-dbunit/
+
+
+[Spring from the Trenches: Resetting Auto Increment Columns Before Each Test Method](http://www.petrikainulainen.net/programming/spring-framework/spring-from-the-trenches-resetting-auto-increment-columns-before-each-test-method/)
+
 
 ## nosql
 + [mapdb] (https://github.com/jankotek/MapDB)
