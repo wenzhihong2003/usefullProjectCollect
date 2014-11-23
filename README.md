@@ -186,4 +186,6 @@ A Java WebSocket/HTTP server based on the Atmosphere and Netty Framework
 atmoshpere的下一代. A real-time web application framework
 The Vibe is a new web framework to write low-latency, event-driven, real-time web application and service based on its own protocol built over HTTP and WebSocket which is available to any language and platform. A Vibe focuses on providing reliable full duplex connection and making the best use of it for modern web application development so that teams can focus on event handling without unnecessary ties to low-level details like transport mechanisms and message loss
 
++ [JUEL] 一个el表达式库,实现jsp-el 2.2 可脱离jsp使用. JUEL is an implementation of the Unified Expression Language (EL), specified as part of the JSP 2.1 standard (JSR-245), which has been introduced in JEE5. Additionally, JUEL 2.2 implements the JSP 2.2 maintenance release specification for full JEE6 compliance. 
+
 
