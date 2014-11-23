@@ -29,8 +29,29 @@ elasticsearch管理插件
 + [spring-test-dbunit] (https://github.com/springtestdbunit/spring-test-dbunit)
 Integration between the Spring testing framework and DBUnit http://springtestdbunit.github.com/spring-test-dbunit/
 
++ [micro-infra-spring] (https://github.com/4finance/micro-infra-spring)
+Repository containing default microservice infrastructure set up using Spring configuration. Sets up the whole Spring infrastructure stack that will turn your microservice into a beauty
 
-[Spring from the Trenches: Resetting Auto Increment Columns Before Each Test Method](http://www.petrikainulainen.net/programming/spring-framework/spring-from-the-trenches-resetting-auto-increment-columns-before-each-test-method/)
++ [micro-deps-spring-config] (https://github.com/4finance/micro-deps-spring-config)
+Default Micro-deps Spring configuration
+
++ [swagger-ui] (https://github.com/swagger-api/swagger-ui) 
+基于REST的API测试/文档类插件. (http://my.oschina.net/ekc/blog/83281) 对接口提供文档,可进行在线测试.
+
++ [swagger-springmvc] (https://github.com/martypitt/swagger-springmvc)
+swagger-ui 跟springmvc 进行结合.[例子] (https://github.com/adrianbk/swagger-springmvc-demo)
+[Documenting a REST API with Swagger and Spring MVC] (http://blog.zenika.com/index.php?post/2013/07/11/Documenting-a-REST-API-with-Swagger-and-Spring-MVC)
+[Documenting your Spring API with Swagger] (http://raibledesigns.com/rd/entry/documenting_your_spring_api_with)
+
+
++ [JsonViewExample] (https://github.com/martypitt/JsonViewExample)
+Support for custom Jackson @JsonView within Spring MVC
+http://martypitt.wordpress.com/2012/11/05/custom-json-views-with-spring-mvc-and-jackson/
+
+
+
++ [Spring from the Trenches: Resetting Auto Increment Columns Before Each Test Method] (http://www.petrikainulainen.net/programming/spring-framework/spring-from-the-trenches-resetting-auto-increment-columns-before-each-test-method/)
+
 
 
 ## nosql
