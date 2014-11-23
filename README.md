@@ -10,6 +10,17 @@ github上一些觉得对自己工作有用的项目收集
 + [awesome-wpo web优化指南] (https://github.com/davidsonfellipe/awesome-wpo)
 A curated list of Web Performance Optimization.
 
+## 文章类
++ [Building a REST API with JAXB, Spring Boot and Spring Data] (http://raibledesigns.com/rd/entry/building_a_rest_api_with)
++ Developing Services with Apache Camel
+[Part I: The Inspiration] (http://raibledesigns.com/rd/entry/developing_services_with_apache_camel)
+[Part II: Creating and Testing Routes] (http://raibledesigns.com/rd/entry/developing_services_with_apache_camel1)
+[Part III: Integrating Spring 4 and Spring Boot] (http://raibledesigns.com/rd/entry/developing_services_with_apache_camel2)
+[Part IV: Load Testing and Monitoring] (http://raibledesigns.com/rd/entry/developing_services_with_apache_camel3)
++ [Maven custom packaging with the assembly plugin] (http://ufasoli.blogspot.jp/2014/07/maven-custom-packaging-with-assembly.html)
++ Asciidoctor maven integration
+[part 1] (http://ufasoli.blogspot.jp/2014/06/asciidoctor-maven-integration_23.html)
+[part 2] (http://ufasoli.blogspot.jp/2014/06/asciidoctor-maven-integration.html) 
 
 
 
@@ -121,6 +132,10 @@ YTKNetwork 是猿题库iOS研发团队基于 AFNetworking 封装的 iOS 网络�
 
 + [YTKKeyValueStore] (https://github.com/yuantiku/YTKKeyValueStore)
 ios上的kv store
+
+## mobile web
++ [ionic] (http://ionicframework.com/)
+Create amazing apps The beautiful, open source front-end framework for developing hybrid mobile apps with HTML5.  Create hybrid mobile apps with the web technologies you love.Free and open source, Ionic offers a library of mobile-optimized HTML, CSS and JS components, gestures, and tools for building highly interactive apps. Built with Sass and optimized for AngularJS
 
 
 
